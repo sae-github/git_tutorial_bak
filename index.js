@@ -3,5 +3,3 @@ if(a){
   console.log("わーーーーい!!!!!");
 }
 
-console.log("これがバグ")
-
